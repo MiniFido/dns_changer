@@ -1,8 +1,8 @@
 # DNS Change Script
 
 Dette repository indeholder scripts til hurtigt at ændre DNS-indstillingerne på en Windows-maskine til:
-- **Primær DNS**: `1.1.1.1`
-- **Sekundær DNS**: `8.8.8.8`
+- **Primær DNS**: `1.1.1.1` cloudflare
+- **Sekundær DNS**: `8.8.8.8` Google
 
 ### Filoversigt
 - **ChangeDNS.bat**: En batch-fil, der starter PowerShell-scriptet for at udføre DNS-ændringen.
